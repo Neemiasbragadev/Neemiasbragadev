@@ -18,7 +18,7 @@ Olá, sou Tecnologo em Analise e Desenvolvimento de Sistemas. Atualmente, trabal
 ![php](https://img.shields.io/badge/PHP-0175C2.svg?style=for-the-badge&logo=pHP&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-ffffff.svg?style=for-the-badge&logo=Laravel&logoColor=orange)
 ![JS](https://img.shields.io/badge/JavaScript-fcd303?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Delphi](https://img.shields.io/badge/Node-fcd303?style=for-the-badge&logo=Node&logoColor=white)
+![Delphi](https://img.shields.io/badge/Node-74ad5e?style=for-the-badge&logo=Node&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-FFFFFF?style=for-the-badge&logo=MYSQL&logoColor=orange)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
