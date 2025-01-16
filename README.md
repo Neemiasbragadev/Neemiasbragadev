@@ -36,10 +36,10 @@ Olá, sou Tecnologo em Analise e Desenvolvimento de Sistemas. Atualmente, trabal
 
 # Alguns Repositórios:
 
-[![Repo TIO GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=Site-de-Eventos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/Site-de-Eventos)
+[![Repo TIO GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=Site-de-Eventos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Neemiasbragadev/Site-de-Eventos)
 
-[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=trunfodecartas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/trunfodecartas)
+[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=trunfodecartas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Neemiasbragadev/trunfodecartas)
 
-[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=my-portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/my-portifolio)
+[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=my-portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Neemiasbragadev/my-portifolio)
 
-[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=Calculadora-React&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/Calculadora-React)
+[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=Calculadora-React&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Neemiasbragadev/Calculadora-React)
