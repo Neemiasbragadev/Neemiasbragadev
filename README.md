@@ -38,4 +38,4 @@ Olá, sou Tecnologo em Analise e Desenvolvimento de Sistemas. Atualmente, trabal
 
 [![Repo TIO GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=Site-de-Eventos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/Site-de-Eventos)
 
-[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=cursoLaravel10&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/cursoLaravel10)
+[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=trunfodecartas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/cursoLaravel10)
