@@ -1,45 +1,89 @@
-<h1>
-    <span> NEEMIAS BRAGA </span>
-</h1>
+<!-- Banner Animado -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=30A3DC&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Tecnologo+em+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+do+Exército+Brasileiro;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG" />
+</div>
 
-Olá, sou Tecnologo em Analise e Desenvolvimento de Sistemas. Atualmente, trabalho como desenvolvedor de software do Exercito Brasileiro. Minhas atividades incluem a implementação de novas funcionalidades e correções em um sistema hospitalar legado utilizando PHP. Além disso, atuo como desenvolvedor back-end em JAVA, construindo novo sitemas e funcionalidades para a maior força terrestre do BRASIL. Sou muito apaixonado  pela area de Tecnologia e estou sempre a procura de novos desafios e de aprendizado para que eu possa cada vez mais me consolidar nessa profição. 😉🚀.
+<h1 align="center">Neemias Braga 🚀</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedor-Exército%20Brasileiro-30A3DC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analista%20de%20Sistemas-PHP%2C%20JS%2C%20Laravel-0175C2?style=for-the-badge" />
+</p>
 
 ---
 
-### Conecte-se comigo
+### 👋 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/neemiasbragadev/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:neemiassanto217@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Nemobraga)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/neemiasbraga81?tab=skills&page=1)
+Sou Tecnólogo em Análise e Desenvolvimento de Sistemas. Atualmente, atuo como desenvolvedor de software no Exército Brasileiro, implementando novas funcionalidades, dando suporte técnico e integrando soluções inovadoras. Apaixonado por desafios, tecnologia e aprendizado contínuo!
 
-### Habilidades
+---
 
-![php](https://img.shields.io/badge/PHP-0175C2.svg?style=for-the-badge&logo=pHP&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-ffffff.svg?style=for-the-badge&logo=Laravel&logoColor=orange)
-![JS](https://img.shields.io/badge/JavaScript-fcd303?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Delphi](https://img.shields.io/badge/Node-74ad5e?style=for-the-badge&logo=Node&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MYSQL-FFFFFF?style=for-the-badge&logo=MYSQL&logoColor=orange)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 💼 Conecte-se comigo
 
-### GitHub Stats
+<p align="left">
+  <a href="https://www.linkedin.com/in/neemiasbragadev/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:neemiassanto217@gmail.com"><img src="https://img.shields.io/badge/-Email-E94D5F?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://github.com/Nemobraga"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://web.dio.me/users/neemiasbraga81?tab=skills&page=1"><img src="https://img.shields.io/badge/-Meu%20Perfil%20DIO-30A3DC?style=for-the-badge"></a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neemiasbragadev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Neemiasbragadev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-### Minhas contribuições
+### 🛠️ Principais Tecnologias
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Nemobraga/dio-lab-open-source)
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-0175C2?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-orange?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-74ad5e?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-# Alguns Repositórios:
+---
 
-[![Repo TIO GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=Site-de-Eventos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Neemiasbragadev/Site-de-Eventos)
+### 📊 Estatísticas GitHub
 
-[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=trunfodecartas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Neemiasbragadev/trunfodecartas)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neemiasbragadev&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=F0F0F0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neemiasbragadev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=F0F0F0" />
+</div>
 
-[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=my-portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Neemiasbragadev/my-portifolio)
+---
 
-[![Repo celulas_vide GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=Calculadora-React&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Neemiasbragadev/Calculadora-React)
+### 🌟 Destaques & Contribuições
+
+- 💡 Contribuições para projetos open-source e iniciativas educacionais
+- 🚀 Participação ativa em comunidades de tecnologia
+- 📚 Compartilhamento de conhecimento através de artigos e repositórios
+
+---
+
+### 🔥 Repositórios em destaque
+
+<p align="left">
+  <a href="https://github.com/Neemiasbragadev/dio-lab-open-source">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=F0F0F0" />
+  </a>
+  <a href="https://github.com/Neemiasbragadev/Site-de-Eventos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=Site-de-Eventos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=F0F0F0" />
+  </a>
+  <a href="https://github.com/Neemiasbragadev/trunfodecartas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=trunfodecartas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=F0F0F0" />
+  </a>
+  <a href="https://github.com/Neemiasbragadev/my-portifolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=my-portifolio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=F0F0F0" />
+  </a>
+  <a href="https://github.com/Neemiasbragadev/Calculadora-React">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neemiasbragadev&repo=Calculadora-React&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=F0F0F0" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=30A3DC&height=120&section=footer"/>
+</div>
